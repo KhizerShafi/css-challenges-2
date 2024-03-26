@@ -1,0 +1,95 @@
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    font-size: 21px;
+}
+
+h1{
+    font-size: 80px;
+    font-weight:300;
+}
+
+h2{
+    font-size: 60px;
+    font-weight: 300;
+}
+
+h3{
+    font-size: 36px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.small{
+    font-size: 16px;
+    color: #99d930;
+}
+
+a{
+    color: #99D930
+}
+
+a:hover{
+    color: #131313
+}
+
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 60px;
+    border-top: 1px solid white;
+    
+    display: inline;
+
+}
+
+span{
+    font-weight: 900;
+}
+
+header{
+    background: #252525;
+    padding: 100px 0;
+    color:  #fff;
+    border-width: 10px;
+}
+
+.about-me{
+    background-color: #D7D7D7;
+    padding: 80px 0;
+
+}
+
+.articles{
+    background-color: #252525;
+    padding: 100px 0;
+    color: #fff;
+}
+
+img{
+    border-radius: 100%;
+}
+
+.btn{
+color: #252525;
+background: #99D930;
+border: none;
+text-decoration: none;
+font-weight: 900;
+
+
+}
+
+
+.btn:hover{
+    color: #fff;
+    background: #252525;
+}
+
+p{
+    margin-top: 20px;
+}
